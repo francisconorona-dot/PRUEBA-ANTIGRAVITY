@@ -1,0 +1,7 @@
+{
+  "name": "POWER DRINK - CAFEPROTEICO",
+  "description": "Minimalist landing page for high-protein coffee drink featuring Gemini Live voice agent and parallax effects.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
